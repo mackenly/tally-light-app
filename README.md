@@ -1,5 +1,5 @@
 # Tally Light App
-[TallyLight.app](https://tallylight.app) website and [docs.TallyLight.app](https://doc.tallylight.app) documentation
+[TallyLight.app](https://tallylight.app) website and [docs.TallyLight.app](https://docs.tallylight.app) documentation
 
 ## Roadmap
 - Revitalize and relaunch Tally Light Pro (originally launched in 2016)
