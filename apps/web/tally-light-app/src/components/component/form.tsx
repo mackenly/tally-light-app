@@ -25,7 +25,6 @@ export function Form() {
             alert('Something went wrong. Please try again.');
             return;
         }
-        event.currentTarget.reset();
 		alert('Thank you for signing up! Check your email to confirm your subscription.');
 	}
 
