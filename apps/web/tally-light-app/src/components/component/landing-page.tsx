@@ -70,7 +70,7 @@ export function LandingPage() {
 						<div className="space-y-3">
 							<h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Download the App</h2>
 							<p className="mx-auto max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-								Get the Tally Light Pro app and gain viability into your production.
+								Sign up to be notified when the app is available for download.
 							</p>
 						</div>
 						<Form />
